@@ -17,3 +17,6 @@ Stages/adds everything in current directory -- git add -A
 add message to a commit for others -- git commit -m "message"
 
 Push changes to github -- git push
+Add remote for collab -- git remote add collab "Link"
+
+git push collab master
