@@ -20,3 +20,7 @@ Push changes to github -- git push
 Add remote for collab -- git remote add collab "Link"
 
 git push collab master
+
+Create branch -- git branch "name"
+
+Switch to branch -- git checkout "name"
